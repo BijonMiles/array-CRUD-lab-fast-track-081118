@@ -4,7 +4,7 @@ end
 
 def create_an_array(array)
   array = ("Lion", "Tiger", "Cat", "Dog")
-  puts my_array
+  puts array
 end
 
 def add_element_to_end_of_array(array, element)
